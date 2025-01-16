@@ -1,19 +1,10 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+red-wine:
+  label: Red Wine
+  permalink: /red-wine
+  description: Content about Red Wine
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+varietal:
+  label: Varietal
+  permalink: /varietal
+  description: Deep Dives into Different Varietals
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
-
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
